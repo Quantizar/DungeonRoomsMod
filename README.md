@@ -12,7 +12,7 @@ Alternatively, you can also view images of the secret locations in the DSG Disco
 
 A side mod of DRM, for those who find themselves repeating the same secrets as party members, this mod helps to sync and organize parties and the way they play dungeons.
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/959825379848237116/959827232535228447/SecretSyncer_3.03.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/942893773887795251/961007479481827348/SecretSyncer_3.31.jar)
 
 ### Why is this useful?
 For those who haven't memorized secrets, trying to find secrets takes forever, especially when you have to spend a ton of time searching through DSG channels for the right room. This mod makes it easy as you can immediately see where a secret is.
@@ -22,7 +22,7 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
 
 Long Answer: https://quantizr.github.io/posts/is-it-bannable/
 
-### Hotkeys:
+### Hotkeys: 
 (Configurable in Controls Menu)
  - P - Opens Secret Waypoints configuration GUI
  - O - Opens images of secret locations
